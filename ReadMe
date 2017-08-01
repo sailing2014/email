@@ -1,7 +1,7 @@
 Project = email
 User_ID = 6010
 Version = rc1.0
-Owner = yang.f
-Email = yf@clever-rock.com
+Owner = x.xx
+Email = x@xx.com
 SRW = config/test/app;config/pro/app;config/dev/app;config/pro2/app
 Type = httpd
